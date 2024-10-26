@@ -1,0 +1,19 @@
+Type in Ts:
+ Easy way to refer to the different properties + functions that a value has
+ eg : "red" -> it is a string
+            -> it is a value that has all the properties + methods that we assume that a string has
+ In simple terms: Every value has a type 
+
+ eg: string : "hi"
+     Date : new Date()
+     boolean : true 
+     Todo : {id: 1, title: good day biscuit , completed: true}
+
+     Types: Primitive
+            - number, string , boolean , void , null, undefined, symbol
+      and Non-Primitive(Object Types)
+            - functions, arrays, classes, objects
+
+Type Inference:
+      Ts complier guess the type by itself using var declaration and initialization on the same line
+      

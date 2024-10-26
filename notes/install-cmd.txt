@@ -1,1 +1,7 @@
 npm install -g typescript ts-node
+npm install typescript @types/node @types/express ts-node
+
+npm i axios
+
+//to run use:
+ts-node index.ts

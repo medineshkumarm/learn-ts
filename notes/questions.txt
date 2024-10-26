@@ -3,3 +3,12 @@
 
 3. What are the features of Typescript? And It's usecase
 4. Type system in Typescript ie. Typesafety. Why it is important?
+5. Type annotatoin and Type inference
+
+Quick thoughts:
+1. Diff btw '' and "" in js
+2. two types of knowledge from ts:
+    1. Let's analyse what interface does to Typescript and it's syntax
+    2. Design Pattern with ts: How do we use interface to write reusable code
+
+3. Why shoud we care about Types?

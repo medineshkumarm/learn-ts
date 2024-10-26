@@ -1,0 +1,6 @@
+Typescript playground:
+https://www.typescriptlang.org/play/?q=174#example/conditional-types
+
+
+JSON Fake REST API:
+https://jsonplaceholder.typicode.com/todos/1

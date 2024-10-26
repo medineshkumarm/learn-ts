@@ -1,0 +1,11 @@
+features:
+1. Helps to catch errors
+    - interface: define the structure of the object:
+    
+    eg:
+    
+    interface Todo {
+        id: number;
+        title: string;
+        completed: boolean;
+    }
