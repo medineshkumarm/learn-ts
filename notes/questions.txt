@@ -1,0 +1,5 @@
+1. What is Typescript and Why should I use it?
+2. Javascript vs Typescript
+
+3. What are the features of Typescript? And It's usecase
+4. Type system in Typescript ie. Typesafety. Why it is important?
