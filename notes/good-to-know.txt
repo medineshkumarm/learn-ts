@@ -1,6 +1,0 @@
-1. Typescript code will not get executed on Browser at all
-    - It will be compiled to Javascript then executed.
-    - Why doing so? to add type safety through type annotation
-2. Typescript has no effect on performance optimisation
-
-3. interface + classes = How we get really strong code reuse in TS
