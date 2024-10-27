@@ -5,3 +5,5 @@ npm i axios
 
 //to run use:
 ts-node index.ts
+//or
+npx tsc index.ts
